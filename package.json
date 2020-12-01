@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "mocha": "*",
-    "nan": "^2.1.0",
+    "nan": "^2.14.2",
     "natives": "^1.1.6"
   },
   "scripts": {
